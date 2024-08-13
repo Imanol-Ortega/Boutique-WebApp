@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { View, Text, StatusBar, FlatList, Image } from "react-native";
 import React, { useEffect, useState } from "react";
 import axios from "axios";
